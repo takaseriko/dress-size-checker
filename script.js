@@ -39,7 +39,7 @@ const sizeTable = [
   };
 
   const dressPic = document.getElementById("dressPic");
-  dressPic.src = "images/" + imageMap[closestSize];
+  dressPic.src = imageMap[closestSize];
   dressPic.style.display = "block";
 
   
