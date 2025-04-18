@@ -30,7 +30,6 @@ const sizeTable = [
       }
     });
 
-      // 画像の切り替え
   const imageMap = {
     "5号": "size5.png",
     "7号": "size7.png",
