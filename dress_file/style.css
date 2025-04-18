@@ -25,13 +25,13 @@ body {
     display: flex;
     align-items:center;
     justify-content: space-between;
-    width: 260px; /* 全体の幅を固定 */
+    width: 260px;
     margin-bottom: 1em;
     font-size: 22px;
   }
   
   form label span {
-    width: 100px; /* ラベルテキスト部分の幅を固定 */
+    width: 100px;
     text-align: right;
     margin-right: 10px;
   }
@@ -75,14 +75,14 @@ body {
   
   .logo img {
     display: block;
-    margin: 0px auto 0 auto; /* 下の余白をなくす */
+    margin: 0px auto 0 auto;
     width: 450px;
   }
   
   #dressImage {
     display: block;
     text-align: center;
-    margin-top: 0; /* 念のため追加 */
+    margin-top: 0;
   }
   #dressPic {
     width: 550px;
