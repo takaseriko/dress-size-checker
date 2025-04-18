@@ -31,11 +31,11 @@ const sizeTable = [
     });
 
   const imageMap = {
-    "5号": "size5.png",
-    "7号": "size7.png",
-    "9号": "size9.png",
-    "11号": "size11.png",
-    "13号": "size13.png"
+    "5号": "size5.PNG",
+    "7号": "size7.PNG",
+    "9号": "size9.PNG",
+    "11号": "size11.PNG",
+    "13号": "size13.PNG"
   };
 
   const dressPic = document.getElementById("dressPic");
